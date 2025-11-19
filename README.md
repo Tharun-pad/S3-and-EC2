@@ -99,7 +99,8 @@ Steps to Clean Up (Terminate the Instance)
 
 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/140ad1ad-ce7d-431e-b293-b742eb4684e2" />
+<img width="1908" height="1074" alt="Screenshot 2025-11-03 140510" src="https://github.com/user-attachments/assets/dcd3c156-037e-4d96-9526-0b78833652f5" />
+
 
 
                                                       _Snapshot 2:  EC2 (Elastic Compute Cloud) – Instance
